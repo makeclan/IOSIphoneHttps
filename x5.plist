@@ -45,7 +45,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>鑫地社区正在安装中…</string>
+    <string>鑫地社区</string>
    </dict>
   </dict>
  </array>
