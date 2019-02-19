@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.xdj398.com/5c63c5d7e1383.ipa</string>
+     <string>http://www.xdj398.com/v1.0.10.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
