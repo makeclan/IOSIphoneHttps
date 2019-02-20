@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.xdj398.com/v1.0.10.ipa</string>
+     <string>http://www.xdd2016.com/v1.0.10.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://www.xdj398.com/app_logo.png</string>
+     <string>http://www.xdd2016.com/app_logo.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://www.xdj398.com/app_logo.png</string>
+     <string>http://www.xdd2016.com/app_logo.png</string>
     </dict>
    </array>
    <key>metadata</key>
