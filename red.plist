@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://qkj.xd2020.com/ios.ipa</string>
+     <string>http://sudo.jzy686.net/ios.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://qkj.xd2020.com/upload/admin/thumb/3f/76d847d862bc40db0ec3b1dba35a20c7754a13.PNG</string>
+     <string>http://sudo.jzy686.net/upload/admin/thumb/4f/8ce859d953e28732c7090179f14fc6610b0d1d.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://qkj.xd2020.com/upload/admin/thumb/3f/76d847d862bc40db0ec3b1dba35a20c7754a13.PNG</string>
+     <string>http://sudo.jzy686.net/upload/admin/thumb/4f/8ce859d953e28732c7090179f14fc6610b0d1d.png</string>
     </dict>
    </array>
    <key>metadata</key>
